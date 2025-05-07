@@ -1,0 +1,14 @@
+Steps to Run the Script in Linux Terminal
+Open Terminal
+
+Give Execute Permission to the Script
+
+bash
+Copy code
+chmod +x script.sh
+Run the Script
+
+bash
+Copy code
+./script.sh
+The script will
