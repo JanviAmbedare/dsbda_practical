@@ -1,0 +1,4 @@
+2025-05-07 14:23:01 ERROR System crashed
+2025-05-07 14:24:01 INFO User logged in
+2025-05-07 14:25:02 WARNING Memory usage high
+2025-05-07 14:25:10 ERROR Disk failure
